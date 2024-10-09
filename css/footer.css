@@ -1,0 +1,54 @@
+footer {
+    background-color: #f13636;
+    padding: 10px;
+    text-align: center;
+    color: white;
+  }
+
+  footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+
+  div {
+   
+    padding: 15px; 
+    display:inline-block;
+  }
+  
+  .div1 {
+    background: rgb(255, 30, 0);
+    width:300px;
+    margin:auto;
+    padding: 25px;
+    border: 1px solid black; 
+    a:link, a:visited {
+        background: rgb(255, 30, 0);
+        color: white;
+        
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+      }
+      
+      a:hover, a:active {
+        background: rgb(255, 30, 0); 
+      }
+}
+  
+  .div2 {
+    background: rgb(255, 30, 0);
+    width:300px;
+    margin:auto;
+    padding: 25px;
+    border: 1px solid black;   }
+  
+  .div3 {
+    background: rgb(255, 30, 0);
+    width:300px;
+    margin:auto;
+    padding: 25px;
+    border: 1px solid black;   }
+  
+
